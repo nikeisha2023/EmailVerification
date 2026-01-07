@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Verification Successful</title>
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; background:#f6f9fc; color:#0f172a; }
+    .card { background:#fff; padding:28px; border-radius:12px; box-shadow:0 6px 24px rgba(15,23,42,0.08); max-width:520px; text-align:center; }
+    h1 { margin:0 0 12px; font-size:24px; }
+    p { margin:0 0 18px; color:#334155; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Verification successful</h1>
+    <p>Your email address has been verified. You can now return to the app and sign in.</p>
+  </div>
+</body>
+</html>
